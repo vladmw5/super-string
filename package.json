@@ -1,5 +1,5 @@
 {
-  "name": "super-string",
+  "name": "@vladmw5/super-string",
   "version": "0.0.0",
   "license": "MIT",
   "main": "dist/index.js",
