@@ -36,6 +36,9 @@ console.log(superString.toString() === andAnotherString); //false
 console.log(SuperString.are(regularString, superString)); //true
 ```
 
+# Limitations
+You cannot use the regular `==` or `===` comparison operators with super strings
+
 # Contributors
 
 [Vladyslav Avidzba](https://github.com/vladmw5) - Author
