@@ -4,6 +4,17 @@ This small package provides a `SuperString` class that extends the basic JS `Str
 The SuperString is a string that is in a superposition, i.e. that an `'ABC'` super string also equals to `'CBA'` string.
 So a super string is a string that equals to any other string that consists of the same set characters regardless of their order.
 
+# Installation
+
+```BASH
+#Using npm
+npm i super-string
+#Using yarn
+yarn add super-string
+#Using pnpm
+pnpm add super-string
+```
+
 # Usage
 
 ```javascript
@@ -19,8 +30,12 @@ console.log(superString.equalsTo(anotherString)); //true
 console.log(superString.toString() === anotherString); //false
 
 const andAnotherString = 'whatever';
-console.log(superString.equalsTo(andAnotherString)); //true
+console.log(superString.equalsTo(andAnotherString)); //false
 console.log(superString.toString() === andAnotherString); //false
 
 console.log(SuperString.are(regularString, superString)); //true
 ```
+
+# Contributors
+
+[Vladyslav Avidzba](https://github.com/vladmw5) - Author
