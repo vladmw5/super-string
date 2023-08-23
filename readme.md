@@ -8,11 +8,11 @@ So a super string is a string that equals to any other string that consists of t
 
 ```BASH
 #Using npm
-npm i super-string
+npm i @vladmw5/super-string
 #Using yarn
-yarn add super-string
+yarn add @vladmw5/super-string
 #Using pnpm
-pnpm add super-string
+pnpm add @vladmw5/super-string
 ```
 
 # Usage
