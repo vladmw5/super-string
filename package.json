@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "keywords": ["string", "js", "ts"],
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
     "tsup": "^7.2.0",

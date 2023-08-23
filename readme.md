@@ -39,6 +39,9 @@ console.log(SuperString.are(regularString, superString)); //true
 # Limitations
 You cannot use the regular `==` or `===` comparison operators with super strings
 
+# View on Github
+[Github](https://github.com/vladmw5/super-string)
+
 # Contributors
 
 [Vladyslav Avidzba](https://github.com/vladmw5) - Author
