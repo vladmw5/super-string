@@ -1,6 +1,10 @@
 {
   "version": "0.0.3",
   "name": "@vladmw5/super-string",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladmw5/super-string"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
