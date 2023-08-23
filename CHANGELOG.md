@@ -1,5 +1,11 @@
 # super-string
 
+## 0.0.3
+
+### Patch Changes
+
+- eaef8c3: Fixed README: Installation guide
+
 ## 0.0.2
 
 ### Patch Changes
