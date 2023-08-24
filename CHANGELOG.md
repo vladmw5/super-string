@@ -1,5 +1,11 @@
 # super-string
 
+## 0.0.4
+
+### Patch Changes
+
+- 163dfd2: Fixed README usage section
+
 ## 0.0.3
 
 ### Patch Changes
