@@ -18,7 +18,7 @@ pnpm add @vladmw5/super-string
 # Usage
 
 ```javascript
-const { SuperString } = require('super-string');
+const { SuperString } = require('@vladmw5/super-string');
 
 const regularString = 'ABC';
 const superString = new SuperString(regularString);
